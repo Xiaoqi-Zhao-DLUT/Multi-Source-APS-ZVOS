@@ -1,7 +1,7 @@
 # Multi-Source-APS-ZVO
 <p align="center">
 
-  <img src="./image/logo.png" alt="Logo" width="210" height="auto">
+  <img src="./image/logo.png" alt="Logo" width="150" height="auto">
 
 
   <h3 align="center">Multi-Source Fusion and Automatic Predictor Selection for Zero-Shot Video Object Segmentation</h3>
