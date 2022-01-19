@@ -15,3 +15,5 @@
 </p>
 
 The official repo of the ACM MM 2021 (oral) paper, Multi-Source Fusion and Automatic Predictor Selection for Zero-Shot Video Object Segmentation.
+## Trained Model
+You can download the trained models (stage1-3) at [Google Drive](https://drive.google.com/file/d/1XynirTNxoVYZDXg_4vI82suEWeZt4MWy/view?usp=sharing) / [BaiduYunPan(3q9p)](https://pan.baidu.com/s/1zqQpVYbj6zpoLJZpsm1jwQ).  
